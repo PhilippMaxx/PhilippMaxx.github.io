@@ -1,6 +1,6 @@
 <?php ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <body>
 <form action="" method="get">
     <input type="text" name="location"/>
