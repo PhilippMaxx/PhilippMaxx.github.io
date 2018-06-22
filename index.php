@@ -1,7 +1,4 @@
-<?php 
-if(!empty($_GET['location'])){
-}
-?>
+<?php ?>
 <!DOCTYPE html>
 <html>
 <body>
