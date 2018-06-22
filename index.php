@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<form action="get">
+<form action="">
   <input type="text" "location"/>
   <button type="submit">submit</button>
 </form>                    
