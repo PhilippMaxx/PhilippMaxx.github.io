@@ -1,4 +1,8 @@
-<?php ?>
+<?php 
+if(!empty($_GET['location'])){
+  hello world
+}
+?>
 <!DOCTYPE html>
 <html>
 <body>
